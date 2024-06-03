@@ -1,0 +1,6 @@
+{
+  "name": "sandpack-project",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
